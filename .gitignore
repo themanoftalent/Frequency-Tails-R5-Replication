@@ -10,3 +10,11 @@ venv/
 .coverage
 htmlcov/
 .DS_Store
+
+# Sensitive & local configs
+*.pem
+*.key
+rarreg.key
+local.properties
+*.bak
+.DS_Store
